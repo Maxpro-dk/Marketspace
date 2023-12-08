@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>marketspace</name>
+	<displayName><![CDATA[Market Space , Votre Marketplace]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[
+Le \"module de marketplace\" pour PrestaShop transforme votre site en une place de marché, permettant aux clients de devenir des vendeurs. Ces vendeurs peuvent publier leurs propres produits, et le module facilite la gestion des transactions. En tant qu\'administrateur, vous avez la possibilité de percevoir des commissions sur les ventes réalisées par ces vendeurs sur la plateforme.]]></description>
+	<author><![CDATA[Tvs team]]></author>
+	<tab><![CDATA[market_place]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
